@@ -16,6 +16,7 @@ public String getCategory()
 public  void showInfo( )
 {
 	    System.out.println("food id: "+fid);
+                System.out.println("Foof:");
 		System.out.println("food name: "+name);
 		System.out.println("quantity: "+availableQuantity);
 		System.out.println("price of food: "+price);
